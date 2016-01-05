@@ -16,7 +16,7 @@ disqus_shortname: aaltinisik
 favicon:     "/images/favicon.ico"
 aboutme: Hi, this is Ahmet Altinisik. I wrote my notes about odoo so to remember. # these are shown on aboutme-sidebar.
 aboutme_photo: https://gravatar.com/avatar/982c05e4361870c8a413e3157914f526 # your photo.
-google_analytics_key: UA-57979084-1 # put YOUR key here to enable tracking! (blank to disable)
+google_analytics_key: UA-28213384-1 # put YOUR key here to enable tracking! (blank to disable)
 
 
 ### Site setting:
