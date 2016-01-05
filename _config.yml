@@ -1,21 +1,21 @@
 ### Site info:
-title: Freshman21
-tagline: Another Jekyll theme, Freshman twenty-first
-author: Lijia Yu
-email: yu@lijiayu.net
-description: "Freshman21 is a Jekyll blog theme." # You can edit this line in _config.yml. It will appear in your document head meta and in your feed.xml site description
-keywords: "Jekyll, theme, Freshman21"
-baseurl: "/freshman21" # the subpath of your site, e.g. /blog/
-url: "http://yulijia.net/freshman21" # the base hostname & protocol for your site
+title: Ahmet Altinisik Blog
+tagline: Notes on Odoo work
+author: Ahmet Altinisik
+email: aaltinisik@altinkaya.com.tr
+description: "Ahmet Altınışık's Blog on Odoo related work." # You can edit this line in _config.yml. It will appear in your document head meta and in your feed.xml site description
+keywords: "Odoo, Ahmet Altinisik, PostgreSQL"
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "http://ahmet.altinisik.net" # the base hostname & protocol for your site
 locale: en_US
 
 ### Personal info and site tools info:
-twitter_username: yulijia
-github_username:  yulijia
-disqus_shortname: freshman21
+twitter_username: AhmetAltinisik
+github_username:  aaltinisik
+disqus_shortname: aaltinisik
 favicon:     "/images/favicon.ico"
-aboutme: Hi, this is Lijia Yu. I made the Freshman21 theme. Please enjoy it. # these are shown on aboutme-sidebar.
-aboutme_photo: https://i.imgur.com/Mdc4szJl.jpg# your photo.
+aboutme: Hi, this is Ahmet Altinisik. I wrote my notes about odoo so to remember. # these are shown on aboutme-sidebar.
+aboutme_photo: https://gravatar.com/avatar/982c05e4361870c8a413e3157914f526 # your photo.
 google_analytics_key: UA-57979084-1 # put YOUR key here to enable tracking! (blank to disable)
 
 
@@ -56,17 +56,17 @@ locales:
 ### your Blogroll info, only name can shown on the page.
 
 Blogroll:
-      - name: Freshman
-        href: http://yulijia.net/freshman
-        title: Another Jekyll blog theme
-      - name: author's website
-        href: http://yulijia.net/
-        title: Lijia Yu's website
+    - name: Blog
+      href: http://ahmet.altinisik.net
+      title: Ahmet Altinisik's Blog
+    - name: author's website
+      href: http://www.altinkaya.eu/
+      title: Altinkaya Enclosures For Electronics
 
 
 ### Build settings
 markdown: kramdown
 highlighter: pygments
 gems: [jekyll-paginate]
-paginate: 5
+paginate: 10
 excerpt_separator: <!-- more -->
