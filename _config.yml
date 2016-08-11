@@ -1,72 +1,70 @@
-### Site info:
+---
 title: Ahmet Altinisik Blog
+timezone: UTC
+collections:
+  posts:
+    title: Posts
+    output: true
+  uploads:
+    title: Uploads
+    output: true
 tagline: Notes on Odoo work
 author: Ahmet Altinisik
 email: aaltinisik@altinkaya.com.tr
-description: "Ahmet Altınışık's Blog on Odoo related work." # You can edit this line in _config.yml. It will appear in your document head meta and in your feed.xml site description
-keywords: "Odoo, Ahmet Altinisik, PostgreSQL"
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://ahmet.altinisik.net" # the base hostname & protocol for your site
+description: Ahmet Altınışık's Blog on Odoo related work.
+keywords: Odoo, Ahmet Altinisik, PostgreSQL
+baseurl: ''
+url: http://ahmet.altinisik.net
 locale: en_US
-
-### Personal info and site tools info:
 twitter_username: AhmetAltinisik
-github_username:  aaltinisik
+github_username: aaltinisik
 disqus_shortname: aaltinisik
-favicon:     "/images/favicon.ico"
-aboutme: Hi, this is Ahmet Altinisik. I wrote my notes about odoo so to remember. # these are shown on aboutme-sidebar.
-aboutme_photo: https://gravatar.com/avatar/982c05e4361870c8a413e3157914f526 # your photo.
-google_analytics_key: UA-28213384-1 # put YOUR key here to enable tracking! (blank to disable)
-
-
-### Site setting:
-ShowContactInfo: "False" # Personal Info (twitter,github,email) can be seen on aboutme-sidebar, those info only shown where ShowContactInfo == True
-default_column: "two" # blog style: two columns, if default_column != "two", you will see a one column blog.
-default_locale: "en" # blog sidebar language set, only include: English(en) and Chinese (cn)
-
+favicon: "/images/favicon.ico"
+aboutme: Hi, this is Ahmet Altinisik. I wrote my notes about odoo so to remember.
+aboutme_photo: https://gravatar.com/avatar/982c05e4361870c8a413e3157914f526
+google_analytics_key: UA-28213384-1
+ShowContactInfo: 'False'
+default_column: two
+default_locale: en
 locales:
-    en:
-      Aboutme: "About Me"
-      Archives: "Archives"
-      Blogroll: "Blogroll"
-      Categories: "Categories"
-      Copyright_Notice: "Copyright Notice"
-      Recent_Posts: "Recent Posts"
-      Tags: "Tags"
-      Previous: "Older"
-      Next: "Newer"
-      PostedInCategories: "Posted in"
-      Taggedwith: "and tagged"
-      PostDate: "on "
-      Google_search: "Site Search"
-    cn:
-      Aboutme: "关于我"
-      Archives: "存档"
-      Blogroll: "良师益友"        
-      Categories: "分类目录"    
-      Copyright_Notice: "版权声明"
-      Recent_Posts: "近期文章"
-      Tags: "标签" 
-      Previous: "前一页"
-      Next: "后一页"
-      PostedInCategories: "目录:"   
-      Taggedwith: "| 标签:"
-      PostDate: "| 发表时间: "
-      Google_search: "站内搜索"
-### your Blogroll info, only name can shown on the page.
-
+  en:
+    Aboutme: About Me
+    Archives: Archives
+    Blogroll: Blogroll
+    Categories: Categories
+    Copyright_Notice: Copyright Notice
+    Recent_Posts: Recent Posts
+    Tags: Tags
+    Previous: Older
+    Next: Newer
+    PostedInCategories: Posted in
+    Taggedwith: and tagged
+    PostDate: 'on '
+    Google_search: Site Search
+  cn:
+    Aboutme: "关于我"
+    Archives: "存档"
+    Blogroll: "良师益友"
+    Categories: "分类目录"
+    Copyright_Notice: "版权声明"
+    Recent_Posts: "近期文章"
+    Tags: "标签"
+    Previous: "前一页"
+    Next: "后一页"
+    PostedInCategories: "目录:"
+    Taggedwith: "| 标签:"
+    PostDate: "| 发表时间: "
+    Google_search: "站内搜索"
 Blogroll:
-    - name: Blog
-      href: http://ahmet.altinisik.net
-      title: Ahmet Altinisik's Blog
-    - name: author's website
-      href: http://www.altinkaya.eu/
-      title: Altinkaya Enclosures For Electronics
-
-
-### Build settings
+- name: Blog
+  href: http://ahmet.altinisik.net
+  title: Ahmet Altinisik's Blog
+- name: author's website
+  href: http://www.altinkaya.eu/
+  title: Altinkaya Enclosures For Electronics
 markdown: kramdown
 highlighter: pygments
-gems: [jekyll-paginate]
+gems:
+- jekyll-paginate
 paginate: 10
-excerpt_separator: <!-- more -->
+excerpt_separator: "<!-- more -->"

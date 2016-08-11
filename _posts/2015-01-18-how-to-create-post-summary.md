@@ -1,14 +1,14 @@
 ---
-published: true
 title: How to create post summary
-layout: post
-summary: This post show us how to create a post summary step by step. 
-author: Yu 
-category: howto
+date: 2015-01-18 00:00:00 Z
+categories:
+- howto
 tags:
 - summary
+layout: post
+summary: This post show us how to create a post summary step by step.
+author: Yu
 ---
-
 
 We can make a summary of post, and show it in the home page.
 

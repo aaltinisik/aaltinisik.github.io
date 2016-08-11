@@ -1,14 +1,14 @@
 ---
-published: ture
-layout: post
-title: "Highlighting the code"
-author: Yu
-categories: howto
+title: Highlighting the code
+date: 2016-01-02 00:00:00 Z
+categories:
+- howto
 tags:
 - Highlight
 - code
+layout: post
+author: Yu
 ---
-
 
 I use [Pygments](http://pygments.org/) as syntax highlighter for this theme.
 

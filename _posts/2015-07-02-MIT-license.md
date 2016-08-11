@@ -1,11 +1,12 @@
 ---
-published: ture
-layout: post
-title: "MIT license"
-author: Yu
-categories: Articles
+title: MIT license
+date: 2015-07-02 00:00:00 Z
+categories:
+- Articles
 tags:
 - MIT license
+layout: post
+author: Yu
 ---
 
 ## Warning 

@@ -1,14 +1,14 @@
 ---
-published: true
 title: I am a reindeer
-layout: post
-author: Yu
-category: articles
-tags: 
+date: 2013-12-25 00:00:00 Z
+categories:
+- articles
+tags:
 - reindeer
 - sample-post
+layout: post
+author: Yu
 ---
-
 
 **Santa Claus's reindeer** form an imaginary team of <q>flying reindeer</q> traditionally held to pull the sleigh of Santa Claus <del>and help him deliver Christmas gifts</del>. 
 <cite>I fired Santa this year, I didn't need to deliver gifts on the night before Christmas!</cite> 

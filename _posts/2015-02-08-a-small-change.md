@@ -1,12 +1,13 @@
 ---
-published: true
 title: A small change
-layout: post
-author: Yu 
-category: articles 
+date: 2015-02-08 00:00:00 Z
+categories:
+- articles
 tags:
 - features
 - google analytics
+layout: post
+author: Yu
 ---
 
 I made a small change in the gh-pages branch, add google analytics script.
