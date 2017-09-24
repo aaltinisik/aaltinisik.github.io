@@ -3,12 +3,13 @@ published: true
 title: Best odoo repositories on the web
 date: 2017-09-24 00:00:00 Z
 categories:
+ articles
  odoo
- Odoo community
+ Odoo_community
 tags:
  odoo
  OCA
- odoo community
+ odoo_community
 layout: post
 modified: 2017-09-24 00:00:00 Z
 comments: true
