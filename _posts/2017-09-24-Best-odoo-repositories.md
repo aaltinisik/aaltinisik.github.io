@@ -4,7 +4,6 @@ title: Best odoo repositories on the web
 date: 2017-09-24 00:00:00 Z
 categories:
  articles
- odoo
 tags:
  odoo
  OCA
