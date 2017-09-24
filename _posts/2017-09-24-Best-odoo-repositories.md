@@ -1,14 +1,16 @@
 ----
- -title: Best odoo repositories on the web
- -date: 2017-09-24 00:00:00 Z
- -categories:
- -- odoo
- -tags:
- -- odoo
- -- OCA
- -layout: post
- -modified: 2017-09-24 00:00:00 Z
- -comments: true
+-title: Best odoo repositories on the web
+-date: 2017-09-24 00:00:00 Z
+-categories:
+-- odoo
+-- Odoo community
+-tags:
+-- odoo
+-- OCA
+-- odoo community
+-layout: post
+-modified: 2017-09-24 00:00:00 Z
+-comments: true
 ----
 ## Best Odoo Repositories
 
