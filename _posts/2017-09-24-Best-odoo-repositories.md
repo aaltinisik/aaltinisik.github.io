@@ -10,9 +10,6 @@
  -modified: 2017-09-24 00:00:00 Z
  -comments: true
 ----
----
-published: true
----
 ## Best Odoo Repositories
 
 Below you can find a list of best odoo repositories available.
