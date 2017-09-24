@@ -5,11 +5,9 @@ date: 2017-09-24 00:00:00 Z
 categories:
  articles
  odoo
- Odoo_community
 tags:
  odoo
  OCA
- odoo_community
 layout: post
 modified: 2017-09-24 00:00:00 Z
 comments: true

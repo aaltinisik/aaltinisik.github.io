@@ -1,5 +1,5 @@
 ---
-title: Ahmet Altinisik Blog
+title: Ahmet Altınışık's Blog
 timezone: UTC
 collections:
   posts:
@@ -24,7 +24,7 @@ aboutme: Hi, this is Ahmet Altinisik. I wrote my notes about odoo so to remember
 aboutme_photo: https://gravatar.com/avatar/982c05e4361870c8a413e3157914f526
 google_analytics_key: UA-28213384-1
 ShowContactInfo: 'False'
-default_column: two
+default_column: one
 default_locale: en
 locales:
   en:
