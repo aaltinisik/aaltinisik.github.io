@@ -1,17 +1,21 @@
-----
--title: Best odoo repositories on the web
--date: 2017-09-24 00:00:00 Z
--categories:
--- odoo
--- Odoo community
--tags:
--- odoo
--- OCA
--- odoo community
--layout: post
--modified: 2017-09-24 00:00:00 Z
--comments: true
-----
+---
+published: false
+---
+---
+title: Best odoo repositories on the web
+date: 2017-09-24 00:00:00 Z
+categories:
+- odoo
+- Odoo community
+tags:
+- odoo
+- OCA
+- odoo community
+layout: post
+modified: 2017-09-24 00:00:00 Z
+comments: true
+---
+
 ## Best Odoo Repositories
 
 Below you can find a list of best odoo repositories available.
@@ -50,5 +54,4 @@ They also put their efforts in OCA modules, or publish their modules in OCA. Org
 * [https://github.com/akretion/storage](https://github.com/akretion/storage) 
 * [https://github.com/akretion/connector-google-spreadsheet](https://github.com/akretion/connector-google-spreadsheet) 
 * [https://github.com/akretion/bank-statement-import-camt](https://github.com/akretion/bank-statement-import-camt) 
-* [https://github.com/akretion/odoo-viewer-groups](https://github.com/akretion/odoo-viewer-groups) 
-
+* [https://github.com/akretion/odoo-viewer-groups](https://github.com/akretion/odoo-viewer-groups)
