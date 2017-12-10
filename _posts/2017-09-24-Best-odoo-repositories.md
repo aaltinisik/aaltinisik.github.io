@@ -21,6 +21,12 @@ Pycharm templates for odoo
 
 * [https://github.com/mohamedmagdy/odoo-pycharm-templates](https://github.com/mohamedmagdy/odoo-pycharm-templates)
 
+### Odoo New API guideline
+Odoo New API guideline by Nicolas Bessi 
+
+* [https://github.com/nbessi/odoo_new_api_guideline](https://github.com/nbessi/odoo_new_api_guideline)
+
+
 ### OCA community backport
 This is OCA additions on top of odoo server repository. Hope to find it more active when official support for 8.0 is over.
 * [https://github.com/OCA/OCB/](https://github.com/OCA/OCB/) 
@@ -37,7 +43,7 @@ Modules around MRP needs, well organzied and high quality.
 ### Vauxoo odoo addons
 Lots of usefull high quality addons, they can add more description to the modules.
 * [https://github.com/Vauxoo/addons-vauxoo](https://github.com/Vauxoo/addons-vauxoo)
-
+* [https://github.com/Vauxoo/odoo-profiler](https://github.com/Vauxoo/odoo-profiler)
 
 ### IT-Projects odoo addons
 very promising and mostly nice descriptions.
@@ -58,7 +64,7 @@ They also put their efforts in OCA modules, or publish their modules in OCA. Org
 * [https://github.com/akretion/odoo-viewer-groups](https://github.com/akretion/odoo-viewer-groups)
 
 ### AVANZOSC odoo addons
-Addons untill 8.0
+Addons till 8.0
 
 * [https://github.com/avanzosc/odoo-addons](https://github.com/avanzosc/odoo-addons)
 * [https://github.com/avanzosc/mrp-addons](https://github.com/avanzosc/mrp-addons)
@@ -68,6 +74,74 @@ Addons untill 8.0
 * [https://github.com/avanzosc/hr-addons](https://github.com/avanzosc/hr-addons)
 * [https://github.com/avanzosc/crm-addons](https://github.com/avanzosc/crm-addons)
 * [https://github.com/avanzosc/project-addons](https://github.com/avanzosc/project-addons)
+
+### Smile odoo addons
+Odoo addons developed by Smile 
+* [https://github.com/Smile-SA/odoo_addons](https://github.com/Smile-SA/odoo_addons)
+
+### Eficents odoo addons
+Odoo addons developed by Eficent 
+* [https://github.com/Eficent/eficent-odoo-addons](https://github.com/Eficent/eficent-odoo-addons)
+
+### Jerome Sonnet's odoo addons
+Odoo addons developed by Jerome Sonnet 
+* [https://github.com/be-cloud-be/odoo-modules](https://github.com/be-cloud-be/odoo-modules)
+
+### Awesome Food Coops odoo addons
+Odoo addons developed for Food Coops 
+* [https://github.com/AwesomeFoodCoops/odoo-production](https://github.com/AwesomeFoodCoops/odoo-production)
+
+### ClearCorp odoo addons
+Odoo addons developed by ClearCorp
+* [https://github.com/ClearCorp/odoo-clearcorp](https://github.com/ClearCorp/odoo-clearcorp)
+
+### Cenit-IO odoo addons
+Odoo addons developed by Cenit-IO
+* [https://github.com/cenit-io/odoo-cenit](https://github.com/cenit-io/odoo-cenit)
+
+### Disna odoo addons
+Special Odoo modules for Disna
+* [https://github.com/disna-sistemas/odoo](https://github.com/disna-sistemas/odoo)
+
+### Avanzados odoo addons
+Odoo modules by Servicios Tecnológicos Avanzados - Pedro M. Baeza
+* [https://github.com/serviciosbaeza/serviciosbaeza-odoo-addons](https://github.com/serviciosbaeza/serviciosbaeza-odoo-addons)
+
+### NDP systemes odoo addons
+Public Odoo addons from NDP Systèmes
+* [https://github.com/ndp-systemes/odoo-addons](https://github.com/ndp-systemes/odoo-addons)
+
+### Ingeniería ADHOC odoo addons
+Ingeniería ADHOC odoo repositories
+* [https://github.com/ingadhoc](https://github.com/ingadhoc)
+
+### Emipro odoo addons
+This repository contain odoo addons which are developed by Emipro
+* [https://github.com/emiprotechnologies/odoo-addons/tree/8.0](https://github.com/emiprotechnologies/odoo-addons/tree/8.0)
+
+### WT-IO-IT odoo addons
+Odoo Addons by WT-IO-IT
+* [https://github.com/wt-io-it/odoo-addons/tree/8.0](https://github.com/wt-io-it/odoo-addons/tree/8.0)
+
+### Elico Corp odoo addons
+Odoo Addons by Elico Corp
+* [https://github.com/Elico-Corp/odoo-addons](https://github.com/Elico-Corp/odoo-addons)
+
+### LasLabs odoo addons
+Odoo addons for odoo by LalLabs 
+
+* [https://github.com/LasLabs/odoo-connector-helpscout](https://github.com/LasLabs/odoo-connector-helpscout)
+* [https://github.com/LasLabs/odoo-connector-easypost](https://github.com/LasLabs/odoo-connector-easypost)
+* [https://github.com/LasLabs/odoo-base](https://github.com/LasLabs/odoo-base)
+* [https://github.com/LasLabs/odoo-connector-carepoint](https://github.com/LasLabs/odoo-connector-carepoint)
+* [https://github.com/LasLabs/odoo-telephony](https://github.com/LasLabs/odoo-telephony)
+* [https://github.com/LasLabs/odoo-payment](https://github.com/LasLabs/odoo-payment)
+* [https://github.com/LasLabs/odoo-sale](https://github.com/LasLabs/odoo-sale)
+* [https://github.com/LasLabs/odoo-account](https://github.com/LasLabs/odoo-account)
+* [https://github.com/LasLabs/odoo-stock](https://github.com/LasLabs/odoo-stock)
+* [https://github.com/LasLabs/odoo-security](https://github.com/LasLabs/odoo-security)
+* [https://github.com/LasLabs/odoo-account](https://github.com/LasLabs/odoo-account)
+* [https://github.com/LasLabs/odoo-account](https://github.com/LasLabs/odoo-account)
 
 ### Yenthe V.G odoo addons
 Yenthe V.G Odoo Modules
@@ -93,5 +167,17 @@ Terrabit Odoo Modules
 Odoo based Asterisk IP-PBX system
 
 * [https://github.com/litnimax/odoo_asterisk](https://github.com/litnimax/odoo_asterisk)
+
+### Odoo Modules by Mohamed M. Hagag 
+Custom odoo Modules by Mohamed M. Hagag for V8
+
+* [https://github.com/mohamedhagag/dvit-odoo](https://github.com/mohamedhagag/dvit-odoo)
+
+
+### Odoo Modules by Rui Pedrosa Franco
+Custom odoo Modules by Rui Pedrosa Franco
+
+* [https://github.com/ruifranco/odoo-addons](https://github.com/ruifranco/odoo-addons)
+
 
 
