@@ -79,7 +79,19 @@ Yenthe V.G Odoo Modules
 * [https://github.com/Yenthe666/AerooInstallScript](https://github.com/Yenthe666/AerooInstallScript)
 
 
+### Dynamic Product Configuration addons
+Odoo modules enabling dynamic product configuration by Pledra
 
+* [https://github.com/pledra/odoo-product-configurator](https://github.com/pledra/odoo-product-configurator)
 
+### Terrabit odoo addons
+Terrabit Odoo Modules
+
+* [https://github.com/dhongu/deltatech](https://github.com/dhongu/deltatech)
+
+### Odoo based Asterisk IP-PBX
+Odoo based Asterisk IP-PBX system
+
+* [https://github.com/litnimax/odoo_asterisk](https://github.com/litnimax/odoo_asterisk)
 
 
