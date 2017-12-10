@@ -16,6 +16,11 @@ comments: true
 
 Below you can find a list of best odoo repositories available.
 
+### Odoo PyCharm Templates
+Pycharm templates for odoo
+
+* [https://github.com/mohamedmagdy/odoo-pycharm-templates](https://github.com/mohamedmagdy/odoo-pycharm-templates)
+
 ### OCA community backport
 This is OCA additions on top of odoo server repository. Hope to find it more active when official support for 8.0 is over.
 * [https://github.com/OCA/OCB/](https://github.com/OCA/OCB/) 
@@ -51,3 +56,30 @@ They also put their efforts in OCA modules, or publish their modules in OCA. Org
 * [https://github.com/akretion/connector-google-spreadsheet](https://github.com/akretion/connector-google-spreadsheet) 
 * [https://github.com/akretion/bank-statement-import-camt](https://github.com/akretion/bank-statement-import-camt) 
 * [https://github.com/akretion/odoo-viewer-groups](https://github.com/akretion/odoo-viewer-groups)
+
+### AVANZOSC odoo addons
+Addons untill 8.0
+
+* [https://github.com/avanzosc/odoo-addons](https://github.com/avanzosc/odoo-addons)
+* [https://github.com/avanzosc/mrp-addons](https://github.com/avanzosc/mrp-addons)
+* [https://github.com/avanzosc/sale-addons](https://github.com/avanzosc/sale-addons)
+* [https://github.com/avanzosc/custom-addons](https://github.com/avanzosc/custom-addons)
+* [https://github.com/avanzosc/mrp-repair-addons](https://github.com/avanzosc/mrp-repair-addons)
+* [https://github.com/avanzosc/hr-addons](https://github.com/avanzosc/hr-addons)
+* [https://github.com/avanzosc/crm-addons](https://github.com/avanzosc/crm-addons)
+* [https://github.com/avanzosc/project-addons](https://github.com/avanzosc/project-addons)
+
+### Yenthe V.G odoo addons
+Yenthe V.G Odoo Modules
+
+* [https://github.com/Yenthe666/InstallScript](https://github.com/Yenthe666/InstallScript)
+* [https://github.com/Yenthe666/auto_backup](https://github.com/Yenthe666/auto_backup)
+* [https://github.com/Yenthe666/Odoo_Samples](https://github.com/Yenthe666/Odoo_Samples)
+* [https://github.com/Yenthe666/Aeroo](https://github.com/Yenthe666/Aeroo)
+* [https://github.com/Yenthe666/AerooInstallScript](https://github.com/Yenthe666/AerooInstallScript)
+
+
+
+
+
+
